@@ -1,0 +1,15 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 800px;
+    margin: auto;
+    align-items: center;
+    font-size: large;
+
+}
+
+        button{
+    padding: 12px;
+    border-radius: 20px;
+}
